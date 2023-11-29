@@ -29,6 +29,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/base.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0" />
@@ -137,6 +142,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/hip.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="1.5707963267948966 0 0" xyz="0 0.08 0" />
@@ -187,6 +197,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/thigh.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="0 1.5707963267948966 0" xyz="0 0 -0.1065" />
@@ -237,6 +252,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/calf.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="0 -0.21 0" xyz="0.008 0 -0.06" />
@@ -331,6 +351,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/foot.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="-0.002 0 0" />
@@ -376,6 +401,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/hip.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="1.5707963267948966 0 0" xyz="0 -0.08 0" />
@@ -426,6 +456,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/thigh_mirror.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="0 1.5707963267948966 0" xyz="0 0 -0.1065" />
@@ -476,6 +511,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/calf_mirror.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="0 -0.2 0" xyz="0.01 0 -0.06" />
@@ -570,6 +610,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/foot.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="-0.002 0 0" />
@@ -615,6 +660,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/hip.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="1.5707963267948966 0 0" xyz="0 0.08 0" />
@@ -665,6 +715,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/thigh.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="0 1.5707963267948966 0" xyz="0 0 -0.1065" />
@@ -715,6 +770,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/calf.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="0 -0.2 0" xyz="0.01 0 -0.06" />
@@ -809,6 +869,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/foot.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="-0.002 0 0" />
@@ -854,6 +919,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/hip.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="1.5707963267948966 0 0" xyz="0 -0.08 0" />
@@ -904,6 +974,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/thigh_mirror.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="0 1.5707963267948966 0" xyz="0 0 -0.1065" />
@@ -954,6 +1029,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/calf_mirror.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="0 -0.2 0" xyz="0.01 0 -0.06" />
@@ -1048,6 +1128,11 @@ Stephen Brawner (brawner@gmail.com)
         <mesh
           filename="package://go2_description/dae/foot.dae" />
       </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="-0.002 0 0" />
