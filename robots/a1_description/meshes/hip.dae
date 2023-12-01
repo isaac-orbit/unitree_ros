@@ -84,7 +84,7 @@
               <color sid="emission">0 0 0 1</color>
             </emission>
             <diffuse>
-              <color sid="diffuse">0.4 0.4 0.4 1</color>
+              <color sid="diffuse">0.04 0.04 0.04 1.0</color>
             </diffuse>
             <index_of_refraction>
               <float sid="ior">1.45</float>
@@ -96,7 +96,7 @@
   </library_effects>
   <library_images/>
   <library_materials>
-    <material id="材质_001-material" name="材质.001">
+    <material id="材质_001-material" name="darkgrey_001">
       <instance_effect url="#材质_001-effect"/>
     </material>
   </library_materials>

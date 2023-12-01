@@ -16,33 +16,6 @@
     <xacro:property name="trunk_iyy" value="0.056579028"/>
     <xacro:property name="trunk_iyz" value="0.000025134"/>
     <xacro:property name="trunk_izz" value="0.064713601"/> -->
-  <material name="black">
-    <color rgba="0.0 0.0 0.0 1.0"/>
-  </material>
-  <material name="blue">
-    <color rgba="0.0 0.0 0.8 1.0"/>
-  </material>
-  <material name="green">
-    <color rgba="0.0 0.8 0.0 1.0"/>
-  </material>
-  <material name="grey">
-    <color rgba="0.2 0.2 0.2 1.0"/>
-  </material>
-  <material name="silver">
-    <color rgba="0.913725490196 0.913725490196 0.847058823529 1.0"/>
-  </material>
-  <material name="orange">
-    <color rgba="1.0 0.423529411765 0.0392156862745 1.0"/>
-  </material>
-  <material name="brown">
-    <color rgba="0.870588235294 0.811764705882 0.764705882353 1.0"/>
-  </material>
-  <material name="red">
-    <color rgba="0.8 0.0 0.0 1.0"/>
-  </material>
-  <material name="white">
-    <color rgba="1.0 1.0 1.0 1.0"/>
-  </material>
 
   <link name="trunk">
     <visual>
@@ -104,9 +77,6 @@
       <geometry>
         <mesh filename="package://a1_description/meshes/hip.dae" scale="1 1 1"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <!-- <collision>
       <origin rpy="1.57079632679 0 0" xyz="0 0 0"/>
@@ -148,9 +118,6 @@
       <geometry>
         <mesh filename="package://a1_description/meshes/thigh_mirror.dae" scale="1 1 1"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <collision>
       <origin rpy="0 1.57079632679 0" xyz="0 0 -0.1"/>
@@ -178,9 +145,6 @@
       <geometry>
         <mesh filename="package://a1_description/meshes/calf.dae" scale="1 1 1"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <collision>
       <origin rpy="0 1.57079632679 0" xyz="0 0 -0.1"/>
@@ -205,9 +169,6 @@
       <geometry>
         <sphere radius="0.01"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
@@ -234,9 +195,6 @@
       <geometry>
         <mesh filename="package://a1_description/meshes/hip.dae" scale="1 1 1"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <!-- <collision>
       <origin rpy="1.57079632679 0 0" xyz="0 0 0"/>
@@ -278,9 +236,6 @@
       <geometry>
         <mesh filename="package://a1_description/meshes/thigh.dae" scale="1 1 1"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <collision>
       <origin rpy="0 1.57079632679 0" xyz="0 0 -0.1"/>
@@ -308,9 +263,6 @@
       <geometry>
         <mesh filename="package://a1_description/meshes/calf.dae" scale="1 1 1"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <collision>
       <origin rpy="0 1.57079632679 0" xyz="0 0 -0.1"/>
@@ -335,9 +287,6 @@
       <geometry>
         <sphere radius="0.01"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
@@ -364,9 +313,6 @@
       <geometry>
         <mesh filename="package://a1_description/meshes/hip.dae" scale="1 1 1"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <!-- <collision>
       <origin rpy="1.57079632679 0 0" xyz="0 0 0"/>
@@ -408,9 +354,6 @@
       <geometry>
         <mesh filename="package://a1_description/meshes/thigh_mirror.dae" scale="1 1 1"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <collision>
       <origin rpy="0 1.57079632679 0" xyz="0 0 -0.1"/>
@@ -438,9 +381,6 @@
       <geometry>
         <mesh filename="package://a1_description/meshes/calf.dae" scale="1 1 1"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <collision>
       <origin rpy="0 1.57079632679 0" xyz="0 0 -0.1"/>
@@ -465,9 +405,6 @@
       <geometry>
         <sphere radius="0.01"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
@@ -494,9 +431,6 @@
       <geometry>
         <mesh filename="package://a1_description/meshes/hip.dae" scale="1 1 1"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <!-- <collision>
       <origin rpy="1.57079632679 0 0" xyz="0 0 0"/>
@@ -538,9 +472,6 @@
       <geometry>
         <mesh filename="package://a1_description/meshes/thigh.dae" scale="1 1 1"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <collision>
       <origin rpy="0 1.57079632679 0" xyz="0 0 -0.1"/>
@@ -568,9 +499,6 @@
       <geometry>
         <mesh filename="package://a1_description/meshes/calf.dae" scale="1 1 1"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <collision>
       <origin rpy="0 1.57079632679 0" xyz="0 0 -0.1"/>
@@ -595,9 +523,6 @@
       <geometry>
         <sphere radius="0.01"/>
       </geometry>
-      <material name="darkgrey">
-        <color rgba="0.12 0.15 0.2 1.0"/>
-      </material>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
