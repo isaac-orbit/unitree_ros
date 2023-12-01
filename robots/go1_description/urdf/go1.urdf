@@ -13,9 +13,11 @@
       <!-- <material name="orange"/> -->
     </visual>
     <collision>
-      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <origin rpy="0 0 0" xyz="0.03 0 0"/>
+      <!-- <origin rpy="0 0 0" xyz="0 0 0"/> -->
       <geometry>
-        <box size="0.3762 0.0935 0.114"/>
+        <!-- <box size="0.3762 0.0935 0.114"/> -->
+        <box size="0.48 0.13 0.114"/>
       </geometry>
     </collision>
     <inertial>
@@ -125,7 +127,8 @@
     <collision>
       <origin rpy="0 1.5707963267948966 0" xyz="0 0 -0.1065"/>
       <geometry>
-        <box size="0.213 0.0245 0.034"/>
+        <!-- <box size="0.213 0.0245 0.034"/> -->
+        <box size="0.1 0.0245 0.034"/>
       </geometry>
     </collision>
     <inertial>
@@ -308,7 +311,8 @@
     <collision>
       <origin rpy="0 1.5707963267948966 0" xyz="0 0 -0.1065"/>
       <geometry>
-        <box size="0.213 0.0245 0.034"/>
+        <!-- <box size="0.213 0.0245 0.034"/> -->
+        <box size="0.1 0.0245 0.034"/>
       </geometry>
     </collision>
     <inertial>
@@ -491,7 +495,8 @@
     <collision>
       <origin rpy="0 1.5707963267948966 0" xyz="0 0 -0.1065"/>
       <geometry>
-        <box size="0.213 0.0245 0.034"/>
+        <!-- <box size="0.213 0.0245 0.034"/> -->
+        <box size="0.1 0.0245 0.034"/>
       </geometry>
     </collision>
     <inertial>
@@ -674,7 +679,8 @@
     <collision>
       <origin rpy="0 1.5707963267948966 0" xyz="0 0 -0.1065"/>
       <geometry>
-        <box size="0.213 0.0245 0.034"/>
+        <!-- <box size="0.213 0.0245 0.034"/> -->
+        <box size="0.1 0.0245 0.034"/>
       </geometry>
     </collision>
     <inertial>
